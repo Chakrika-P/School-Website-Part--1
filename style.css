@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+#welcome{
+    color: white;
+    bottom: 0;
+    background: linear-gradient(#F9B8FF 0%, #EA00FF 30%, #8D0599 50%, #EA00FF 70%, #F9B8FF 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+hr
+{
+    width: 80%;
+}
+#welcome h1 {
+    font-size: 35px; 
+   font-weight: bolder;
+   color: darkviolet; 
+}
